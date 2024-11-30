@@ -1,0 +1,6 @@
+USE ASMDATA;
+GO
+
+ALTER TABLE Employee
+DROP COLUMN EmployeePosition;
+

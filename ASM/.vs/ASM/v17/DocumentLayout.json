@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\Vcas\\ASM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|d:\\project\\vcas\\asm\\asm\\formstatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|solutionrelative:asm\\formstatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|d:\\project\\vcas\\asm\\asm\\formstatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|solutionrelative:asm\\formstatistical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|d:\\project\\vcas\\asm\\asm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|solutionrelative:asm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|d:\\project\\vcas\\asm\\asm\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|solutionrelative:asm\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|d:\\project\\vcas\\asm\\asm\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|solutionrelative:asm\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|d:\\project\\vcas\\asm\\asm\\formstatistical.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|solutionrelative:asm\\formstatistical.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|d:\\project\\vcas\\asm\\asm\\formemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|solutionrelative:asm\\formemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|d:\\project\\vcas\\asm\\asm\\formemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75D8735D-6509-4E5B-91A3-FACED07D20F7}|ASM\\ASM.csproj|solutionrelative:asm\\formemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormOrder.cs",
+              "DocumentMoniker": "D:\\project\\Vcas\\ASM\\ASM\\FormOrder.cs",
+              "RelativeDocumentMoniker": "ASM\\FormOrder.cs",
+              "ToolTip": "D:\\project\\Vcas\\ASM\\ASM\\FormOrder.cs",
+              "RelativeToolTip": "ASM\\FormOrder.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwE8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:18:40.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormOrder.cs [Design]",
+              "DocumentMoniker": "D:\\project\\Vcas\\ASM\\ASM\\FormOrder.cs",
+              "RelativeDocumentMoniker": "ASM\\FormOrder.cs",
+              "ToolTip": "D:\\project\\Vcas\\ASM\\ASM\\FormOrder.cs [Design]",
+              "RelativeToolTip": "ASM\\FormOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:18:29.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\Vcas\\ASM\\ASM\\Program.cs",
+              "RelativeDocumentMoniker": "ASM\\Program.cs",
+              "ToolTip": "D:\\project\\Vcas\\ASM\\ASM\\Program.cs",
+              "RelativeToolTip": "ASM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:17:50.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormStatistical.Designer.cs",
+              "DocumentMoniker": "D:\\project\\Vcas\\ASM\\ASM\\FormStatistical.Designer.cs",
+              "RelativeDocumentMoniker": "ASM\\FormStatistical.Designer.cs",
+              "ToolTip": "D:\\project\\Vcas\\ASM\\ASM\\FormStatistical.Designer.cs",
+              "RelativeToolTip": "ASM\\FormStatistical.Designer.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAIAwwK4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:00:03.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEmployees.cs",
+              "DocumentMoniker": "D:\\project\\Vcas\\ASM\\ASM\\FormEmployees.cs",
+              "RelativeDocumentMoniker": "ASM\\FormEmployees.cs",
+              "ToolTip": "D:\\project\\Vcas\\ASM\\ASM\\FormEmployees.cs",
+              "RelativeToolTip": "ASM\\FormEmployees.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAmwI4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:58:59.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEmployees.cs [Design]",
+              "DocumentMoniker": "D:\\project\\Vcas\\ASM\\ASM\\FormEmployees.cs",
+              "RelativeDocumentMoniker": "ASM\\FormEmployees.cs",
+              "ToolTip": "D:\\project\\Vcas\\ASM\\ASM\\FormEmployees.cs [Design]",
+              "RelativeToolTip": "ASM\\FormEmployees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:58:55.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormStatistical.cs",
+              "DocumentMoniker": "D:\\project\\Vcas\\ASM\\ASM\\FormStatistical.cs",
+              "RelativeDocumentMoniker": "ASM\\FormStatistical.cs",
+              "ToolTip": "D:\\project\\Vcas\\ASM\\ASM\\FormStatistical.cs",
+              "RelativeToolTip": "ASM\\FormStatistical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:55:06.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormStatistical.cs [Design]",
+              "DocumentMoniker": "D:\\project\\Vcas\\ASM\\ASM\\FormStatistical.cs",
+              "RelativeDocumentMoniker": "ASM\\FormStatistical.cs",
+              "ToolTip": "D:\\project\\Vcas\\ASM\\ASM\\FormStatistical.cs [Design]",
+              "RelativeToolTip": "ASM\\FormStatistical.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:55:03.196Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
